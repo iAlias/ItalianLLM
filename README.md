@@ -2,7 +2,7 @@
 
 **Build your own Italian-speaking LLM — and run a coding assistant locally for free while you do.**
 
-[![CI](https://github.com/iAlias/italian-llm/actions/workflows/ci.yml/badge.svg)](https://github.com/iAlias/italian-llm/actions/workflows/ci.yml)
+[![CI](https://github.com/iAlias/ItalianLLM/actions/workflows/ci.yml/badge.svg)](https://github.com/iAlias/ItalianLLM/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.12%20|%203.13-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-Apache%202.0-green)](LICENSE)
 [![Code style](https://img.shields.io/badge/code%20style-black-000000)](https://github.com/psf/black)

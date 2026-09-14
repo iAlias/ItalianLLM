@@ -115,7 +115,7 @@ Dettagli e onestà sui limiti: `docs/continuous-learning.md`.
 ## 3. Cosa fare adesso, in ordine
 
 1. **Merge della PR** `chore/production-hygiene` su GitHub
-   (https://github.com/iAlias/italian-llm/compare/main...chore/production-hygiene se
+   (https://github.com/iAlias/ItalianLLM/compare/main...chore/production-hygiene se
    non è ancora aperta). Al merge parte la CI e il badge nel README diventa verde.
 2. **pre-commit** (una volta): `pip install pre-commit && pre-commit install && pre-commit autoupdate`.
 3. **Usa la chat con memoria** (1A) come strumento quotidiano per 2–3 settimane:

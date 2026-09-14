@@ -2,7 +2,7 @@
 
 **Costruisci il tuo LLM specializzato in italiano — e nel frattempo usa gratis un assistente di programmazione locale.**
 
-[![CI](https://github.com/iAlias/italian-llm/actions/workflows/ci.yml/badge.svg)](https://github.com/iAlias/italian-llm/actions/workflows/ci.yml)
+[![CI](https://github.com/iAlias/ItalianLLM/actions/workflows/ci.yml/badge.svg)](https://github.com/iAlias/ItalianLLM/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.12%20|%203.13-blue)](https://www.python.org/)
 [![Licenza](https://img.shields.io/badge/licenza-Apache%202.0-green)](LICENSE)
 [![Stile](https://img.shields.io/badge/code%20style-black-000000)](https://github.com/psf/black)
